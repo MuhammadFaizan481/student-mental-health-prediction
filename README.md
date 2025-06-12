@@ -1,3 +1,4 @@
+
 # 🧠 Student Mental Health Analysis and Prediction
 
 This project performs exploratory data analysis and builds machine learning models to predict whether a student is likely to seek mental health treatment.
@@ -23,3 +24,5 @@ This project performs exploratory data analysis and builds machine learning mode
    ```bash
    git clone https://github.com/MuhammadFaizan481/student-mental-health-prediction.git
    cd student-mental-health-prediction
+# student-mental-health-prediction
+A machine learning project to analyze and predict mental health treatment among stud
